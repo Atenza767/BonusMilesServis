@@ -1,11 +1,11 @@
-public class calculate {
+public class Calculator {
 
     public int calculate(int price) {
         int result;
         {
-        result = price / 20;
+            result = price / 20;
         }
-    return result;
+        return result;
 
     }
 
